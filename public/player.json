@@ -1,0 +1,102 @@
+[
+	{
+		"playerId": 1,
+		"name": "Virat Kohli",
+		"country": "India",
+		"image": "https://i.ibb.co.com/k9F7SSs/all-star-player-virat-kohli-hd-pei7gybklhn5p2sd.webp",
+		"role": "Batsman",
+		"battingType": "Right-Handed",
+		"bowlingType": "N/A",
+		"biddingPrice": 1500000
+	},
+	{
+		"playerId": 2,
+		"name": "Babar Azam",
+		"country": "Pakistan",
+		"image": "https://i.ibb.co.com/zH6wrZY/babar-azam-intense-focus-poateeiept8cexd4.webp",
+		"role": "Batsman",
+		"battingType": "Right-Handed",
+		"bowlingType": "N/A",
+		"biddingPrice": 1200000
+	},
+	{
+		"playerId": 3,
+		"name": "Kane Williamson",
+		"country": "New Zealand",
+		"image": "https://i.ibb.co.com/ZWLBVw6/new-zealand-cricket-portrait-of-kane-70l85xzmg5x8xjmf.webp",
+		"role": "Batsman",
+		"battingType": "Right-Handed",
+		"bowlingType": "N/A",
+		"biddingPrice": 1300000
+	},
+	{
+		"playerId": 4,
+		"name": "Ben Stokes",
+		"country": "England",
+		"image": "https://i.ibb.co.com/HX11zwh/ben-stokes-england-team-captain-9lnz8wd6kgsusev8.webp",
+		"role": "All-Rounder",
+		"battingType": "Left-Handed",
+		"bowlingType": "Right-Arm Medium",
+		"biddingPrice": 1700000
+	},
+	{
+		"playerId": 5,
+		"name": "Jasprit Bumrah",
+		"country": "India",
+		"image": "https://i.ibb.co.com/QdsWdft/Jasprit-Bumrah-Makes-History-Becomes-First-Indian-Fast-Bowler-to-Secure-Top-Spot-in-ICC-Test-Bowlers.webp",
+		"role": "Bowler",
+		"battingType": "Right-Handed",
+		"bowlingType": "Right-Arm Fast",
+		"biddingPrice": 1800000
+	},
+	{
+		"playerId": 6,
+		"name": "Steve Smith",
+		"country": "Australia",
+		"image": "https://i.ibb.co.com/6sHhkg0/2350408.jpg",
+		"role": "Batsman",
+		"battingType": "Right-Handed",
+		"bowlingType": "N/A",
+		"biddingPrice": 1400000
+	},
+	{
+		"playerId": 7,
+		"name": "Rashid Khan",
+		"country": "Afghanistan",
+		"image": "https://i.ibb.co.com/Fw7ZCKb/1724056122055-Rashid-Khan.webp",
+		"role": "Bowler",
+		"battingType": "Right-Handed",
+		"bowlingType": "Right-Arm Leg Spin",
+		"biddingPrice": 1600000
+	},
+	{
+		"playerId": 8,
+		"name": "David Warner",
+		"country": "Australia",
+		"image": "https://i.ibb.co.com/n68kGVw/David-Warner-5715597.jpg",
+		"role": "Batsman",
+		"battingType": "Left-Handed",
+		"bowlingType": "N/A",
+		"biddingPrice": 1250000
+	},
+	{
+		"playerId": 9,
+		"name": "Shakib Al Hasan",
+		"country": "Bangladesh",
+		"image": "https://i.ibb.co.com/HrvkG5z/shakib-glass-13-05-2023.jpg",
+		"role": "All-Rounder",
+		"battingType": "Left-Handed",
+		"bowlingType": "Left-Arm Orthodox",
+		"biddingPrice": 1150000
+	},
+	{
+		"playerId": 10,
+		"name": "Mitchell Starc",
+		"country": "Australia",
+		"image": "https://i.ibb.co.com/gv2FS9n/2023-11-16t092610z-386023561-up1ejbg0q7k2u-rtrmadp-3-cricket-worldcup-zaf-aus.jpg",
+		"role": "Bowler",
+		"battingType": "Right-Handed",
+		"bowlingType": "Left-Arm Fast",
+		"biddingPrice": 1750000
+	}
+]
